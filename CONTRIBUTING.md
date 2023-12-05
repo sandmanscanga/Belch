@@ -17,9 +17,9 @@ Before you begin:
 
 - Ensure you have a [GitHub account](https://github.com/signup/free).
 - Fork the [Belch repository](https://github.com/sandmanscanga/Belch) on
-  GitHub.
+GitHub.
 - Familiarize yourself with the project structure and development
-  practices.
+practices.
 
 ## Making Changes
 
@@ -72,7 +72,9 @@ Before you begin:
 
 ## Reporting Bugs
 
-Report bugs via [GitHub issues](https://github.com/sandmanscanga/Belch/issues). When reporting a bug, include:
+Report bugs via [GitHub
+issues](https://github.com/sandmanscanga/Belch/issues). When reporting a
+bug, include:
 
 - A clear and descriptive title.
 - A detailed description of the bug.
@@ -82,10 +84,15 @@ Report bugs via [GitHub issues](https://github.com/sandmanscanga/Belch/issues). 
 
 ## Requesting Enhancements
 
-Enhancement suggestions are also tracked via [GitHub issues](https://github.com/sandmanscanga/Belch/issues). Provide a clear and detailed explanation of your proposed enhancements, including their benefits to the project.
+Enhancement suggestions are also tracked via [GitHub
+issues](https://github.com/sandmanscanga/Belch/issues). Provide a clear
+and detailed explanation of your proposed enhancements, including their
+benefits to the project.
 
 ## Questions
 
-For general questions and support, reach out to us via [GitHub Discussions](https://github.com/sandmanscanga/Belch/discussions) or other designated channels.
+For general questions and support, reach out to us via [GitHub
+Discussions](https://github.com/sandmanscanga/Belch/discussions) or
+other designated channels.
 
 Thank you for contributing to Belch!
