@@ -1,4 +1,8 @@
-# Belch - *Burp Suite Enhanced Loading & Capture Handler*
+# Belch
+
+---
+
+## *Burp Suite Enhanced Loading & Capture Handler*
 
 A Python tool for importing and analyzing Burp Suite's XML traffic
 captures, featuring an efficient database storage and a user-friendly
